@@ -1,3 +1,3 @@
-public class Kvadrat {
-    int a;
+public class Kvadrat extends GeometrijskiObjekat {
+
 }
