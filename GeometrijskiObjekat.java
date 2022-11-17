@@ -13,7 +13,7 @@ public abstract class GeometrijskiObjekat {
         t.setY(a.getY());
     }
 
-    public abstract int Povrsina();
+    public abstract double Povrsina();
     public String Ispis() {
      return "Tacka(" + t.getX() + ", " + t.getY() + ")";
     }
